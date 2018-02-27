@@ -1,6 +1,11 @@
 $(function () {
     $("#about-me").typed({
-        strings: ["Tech Enthusiast.", "Senior Engineer at Mahindra Comviva.", "Software Developer | Designer.", "Polyglot Programmer"],
+        strings: [
+            "Full Stack Developer",
+            "Senior Engineer at Mahindra Comviva.", 
+            "Tech Enthusiast", 
+            "Polyglot Programmer"
+        ],
         typeSpeed: 30,
         loop: true,
     });
