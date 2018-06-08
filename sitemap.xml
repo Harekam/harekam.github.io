@@ -6,12 +6,17 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://harekamsingh.com/</loc>
-  <lastmod>2016-12-31T14:22:11+00:00</lastmod>
+  <loc>https://harekamsingh.com/</loc>
+  <lastmod>2018-06-05T11:29:45+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://harekamsingh.com/Harekam%20Singh%20Resume.pdf</loc>
-  <lastmod>2016-12-31T14:22:11+00:00</lastmod>
+  <loc>https://harekamsingh.com/Harekam%20Singh%20Resume.pdf</loc>
+  <lastmod>2018-06-05T11:29:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+
+
 </urlset>
