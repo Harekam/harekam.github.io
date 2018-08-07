@@ -2,7 +2,7 @@ $(function () {
     $("#about-me").typed({
         strings: [
             "Full Stack Developer",
-            "Senior Engineer at Mahindra Comviva", 
+            "Student at University of Ottawa", 
             "Tech Enthusiast", 
             "Polyglot Programmer"
         ],
