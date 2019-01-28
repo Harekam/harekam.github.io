@@ -82,7 +82,7 @@
 
 @media (max-width: 992px) {
   .social-links-container {
-    margin-left: 10%;
+    margin-left: 3%;
   }
 }
 
@@ -123,8 +123,8 @@
   background-color: rgb(0, 119, 181);
 }
 
-.social-links .quora {
-  background-color: rgb(185, 43, 39);
+.social-links .stack-overflow {
+  background-color: #f48127;
 }
 
 .social-links .googleplus {
@@ -132,7 +132,7 @@
 }
 
 .social-links .blog {
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(110, 110, 110);
 }
 
 @media (min-width: 767px) and (max-width: 992px) {
