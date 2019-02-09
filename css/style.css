@@ -135,6 +135,11 @@
   background-color: rgb(110, 110, 110);
 }
 
+.social-links .npm {
+  background-color: rgb(218, 216, 216);
+}
+
+
 @media (min-width: 767px) and (max-width: 992px) {
   .typed-cursor {
     opacity: 1;
