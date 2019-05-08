@@ -1,7 +1,9 @@
 $(function () {
     $("#about-me").typed({
         strings: [
-            "Masters at University of Ottawa", 
+            "Masters in Engg. Management",
+            "University of Ottawa",
+            "Product Management",
             "Full Stack Developer",
             "Tech Enthusiast", 
             "Polyglot Programmer"
