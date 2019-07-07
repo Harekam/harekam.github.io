@@ -9,7 +9,7 @@ $(function () {
             "Tech Enthusiast", 
             "Polyglot Programmer"
         ],
-        typeSpeed: 30,
+        typeSpeed: 29,
         loop: true,
     });
 });
