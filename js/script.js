@@ -1,11 +1,10 @@
 $(function () {
     $("#about-me").typed({
         strings: [
-            "Masters in Engineering",
+            "SDE @ AWS"
+            "Masters in Engg Management",
             "University of Ottawa",
             "Full Stack Developer",
-            "Software Architect",
-            "Database Design",
             "Tech Enthusiast", 
             "Polyglot Programmer"
         ],
