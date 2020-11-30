@@ -5,7 +5,6 @@ $(function () {
             "Masters in Engg Management",
             "University of Ottawa",
             "Full Stack Developer",
-            "Tech Enthusiast", 
             "Polyglot Programmer"
         ],
         typeSpeed: 30,
